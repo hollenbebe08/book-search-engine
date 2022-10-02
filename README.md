@@ -8,10 +8,17 @@ Clone the repo and install any dependencies using npm i. Run npm start to run th
 
 ## Technologies
 * Javascript
+* HTML/CSS
 * MERN stack
 
 ## Screenshots
-
+![screenshot of portfolio](./public/assets/images/imageone.png)
+![screenshot of portfolio](./public/assets/images/imagetwo.png)
+![screenshot of portfolio](./public/assets/images/imagethree.png)
+![screenshot of portfolio](./public/assets/images/imagefour.png)
 ## Contact Info
+* betsy.griffith12@gmail.com
+* If you have any questions please send them to me via the email address provided.
+* [GitHub Profile](https://github.com/hollenbebe08)
 
 
