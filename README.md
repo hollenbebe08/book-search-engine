@@ -12,10 +12,10 @@ Clone the repo and install any dependencies using npm i. Run npm start to run th
 * MERN stack
 
 ## Screenshots
-![screenshot of portfolio](./public/assets/images/imageone.png)
-![screenshot of portfolio](./public/assets/images/imagetwo.png)
-![screenshot of portfolio](./public/assets/images/imagethree.png)
-![screenshot of portfolio](./public/assets/images/imagefour.png)
+![screenshot of portfolio](./client//public/assets/images/imageone.png)
+![screenshot of portfolio](./client//public/assets/images/imagetwo.png)
+![screenshot of portfolio](./client//public/assets/images/imagethree.png)
+![screenshot of portfolio](./client//public/assets/images/imagefour.png)
 ## Contact Info
 * betsy.griffith12@gmail.com
 * If you have any questions please send them to me via the email address provided.
